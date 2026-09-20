@@ -1,16 +1,19 @@
-## Hi there 👋
+```text
+ shumywy@github ~ [session: active]
+ -------------------------------------------------------------------------
+ $ whoami
+ -----------------------------------------------------------------
+ | Luisa Fernanda Mancilla Portillo                              |
+ | Computer Systems Engineering Student                          |
+ | UI/UX, Frontend & Mobile Development                          |
+ -----------------------------------------------------------------
+ 
+ $ cat stack.conf
+ 
+ [frontend & ui]      HTML5 · CSS3 · JavaScript
+ [mobile]             Android Studio · XML · Material Design
+ [backend & db]       Python · SQLite · MVC Architecture
+ [tools & env]        Git · GitHub
+ [theory]             Compiler Design · Syntax Trees
 
-<!--
-**shumywy/shumywy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ $ _
