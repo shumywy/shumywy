@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/00769e63-5a48-456f-a86b-ba0e463cfe1b" width="100%" style="border-radius: 20px; border: 3px solid #FFB7C5; box-shadow: 0 4px 15px rgba(255, 183, 197, 0.2);" />
+<img src="https://github.com/user-attachments/assets/00769e63-5a48-456f-a86b-ba0e463cfe1b" width="100%" />
 
 <br><br>
 
@@ -15,7 +15,9 @@
 
 </div>
 
-✿ ──────────────────────── 🎀 ──────────────────────── ✿
+<div align="center">
+✿ ─────────────────────────────────── 🎀 ──────────────────────────────────── ✿
+</div>
 
 ### ✦ About Me
 
@@ -23,7 +25,9 @@
 * ✿ **Environment:** Coding on Windows using VS Code and Android Studio.
 * ✿ **Current Goal:** Contributing to open-source projects and scaling my personal apps.
 
-✿ ──────────────────────── 🎀 ──────────────────────── ✿
+<div align="center">
+✿ ─────────────────────────────────── 🎀 ──────────────────────────────────── ✿
+</div>
 
 ### ✦ My Tech Stack
 
@@ -33,7 +37,9 @@
 
 </div>
 
-✿ ──────────────────────── 🎀 ──────────────────────── ✿
+<div align="center">
+✿ ─────────────────────────────────── 🎀 ──────────────────────────────────── ✿
+</div>
 
 ### ✦ Analytics
 
