@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/00769e63-5a48-456f-a86b-ba0e463cfe1b" width="100%" />
+<img src="https://github.com/user-attachments/assets/00769e63-5a48-456f-a86b-ba0e463cfe1b" width="100%" style="border-radius: 15px; border: 1px solid #FFB7C5;" />
 
 # Hi! I'm Fernanda (shumywy) 🌸
 
@@ -18,10 +17,10 @@
 
 ### About Me
 
-- **Focus:** Learning mobile development, improving my UI/UX designs in Figma, and building solid solutions with Java.
-- **Environment:** Coding on Linux Mint using VS Code and Android Studio.
-- **Current Goal:** Contributing to open-source projects and scaling my personal apps.
-- **Fun Fact:** I love anime aesthetics, pixel art, and customizing my development workspace.
+* **Focus:** Learning mobile development, improving my UI/UX designs in Figma, and building solid solutions with Java.
+* **Environment:** Coding on Windows, using VS Code and Android Studio.
+* **Current Goal:** Contributing to open-source projects and scaling my personal apps.
+
 
 ---
 
